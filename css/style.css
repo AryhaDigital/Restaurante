@@ -281,14 +281,14 @@ blockquote p {
 }
 .logo-holder {
 	float:left;
-	height:25px;
+	height:30px;
 	position:relative;
-	top:23px;
+	top: 0px;
 	left:25px;
 }
 .logo-holder img {
 	width:auto;
-	height:25px;
+	height: 70px;
 }
 .header-inner {
 	top:50px;
@@ -799,7 +799,7 @@ footer.fixed-footer:before {
 	top:4px;
 }
 .footer-logo img {
-	height:25px;
+	height:75px;
 	width:auto;
 }
 .footer-top .lang-wrap {
